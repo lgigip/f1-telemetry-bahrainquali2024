@@ -9,12 +9,11 @@ This comparison of speeds across each driver's fastest lap reveals differences i
 #### Plot 2 - Throttle and Brake Comparison
 This plot, an overlay of throttle and brake application across the drivers' fastest laps, visualises the differences in braking points and throttle commitment. The overlay highlights Piastri's slightly earlier braking and more cautious throttle modulation, compared to Verstappen's. Whilst Piastri's traces get progressively smoother, demonstrating a careful and controlled approach, Verstappen's consistently smooth traces indicate confidence and experience with the car.
 #
+**In conclusion**, Verstappen demonstrates less hesitation, with slightly later and harder braking into major corners, whilst Piastri brakes earlier and with smoother modulation. Overall, the visualised data illustrates Piastri's slightly more conservative driving style, trading pace for a more controlled lap. This project uncovered the subtle variations in driving style and confidence of Max Verstappen🔵 and Oscar Piastri🟠, despite both laps being closely matched overall.
+#
 #### Motivation Behind the Project
-In alignment with my interest in performance engineering and motorsport technology, and in pursuit of a career in motorsport, this was built as an independent passion project. 
-This exploration of **real-world motorsport telemetry and performance data** provides the chance to demonstrate **practical application of software and data analysis**.
+This was built as an independent passion project; an exploration of **real-world motorsport telemetry and performance data** that demonstrates **practical application of software and data analysis** and my interest in performance engineering and motorsport technology.
 #
 #### Future Adaptations
 - Expand comparison to multiple laps (not solely the drivers' fastest laps)
 - Integrate tyre/weather data for further data analysis
-#
-**In conclusion**, Verstappen demonstrates less hesitation, with slightly later and harder braking into major corners, whilst Piastri brakes earlier and with smoother modulation. Overall, the visualised data illustrates Piastri's slightly more conservative driving style, trading pace for a more controlled lap. This project uncovered the subtle variations in driving style and confidence of Max Verstappen🔵 and Oscar Piastri🟠, despite both laps being closely matched overall.
