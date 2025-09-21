@@ -7,7 +7,7 @@ With the aim to develop abilties in **motorsport data analysis and visualisation
 Comparison of speeds across each driver's fastest lap, revealing differences in braking efficiency, acceleration out of corners, and driving consistency. Visualising the data collected across these laps offers insight into potential setup variations and overall driving style.
 
 ### Plot 2 - Throttle and Brake Comparison
-This plot, an overlay of throttle and brake application across the drivers' fastest laps, visualises the differences in braking points and throttle commitment.
+This plot, an overlay of throttle and brake application across the drivers' fastest laps, visualises the differences in braking points and throttle commitment. The overlay highlights Piastri's slightly earlier braking and more cautious throttle modulation, compared to Verstappen's. Whilst Piastri's traces get progressively smoother, demonstrating a careful and controlled approach, Verstappen's smooth traces indicate confidence and experience with the car.
 
 ### Motivation Behind the Project
 In alignment with my interest in performance engineering and motorsport technology, and in pursuit of a career in motorsport, this was built as an independent passion project. 
