@@ -3,11 +3,11 @@ This project compares the fastest laps of **<span style="color:#1E90FF">Max Vers
 
 With the aim to develop abilties in **motorsport data analysis and visualisation**, this project extracts and compares F1 data, to explore correlations between performance and driving technique. 
 
-### 1. Speed Comparison
+#### 1. Speed Comparison
 
 
 ### 2. Throttle and Brake Comparison
-This plot, an overlay of throttle and brake application across the driver's fastest lap, visualises the differences in braking points and throttle commitment, providing insight into driver style.
+This plot, an overlay of throttle and brake application across the drivers' fastest laps, visualises the differences in braking points and throttle commitment, providing insight into driver style.
 
 ## Motivation Behind the Project
 In alignment with my interest in performance engineering and motorsport technology, and in pursuit of a career in motorsport, this was built as an independent passion project. 
