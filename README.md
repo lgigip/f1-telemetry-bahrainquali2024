@@ -3,6 +3,8 @@ This project compares the fastest laps of **Max Verstappen**🔵 and **Oscar Pia
 
 With the aim to develop abilties in **motorsport data analysis and visualisation**, this project extracts and compares F1 data, to explore correlations between performance and driving technique. 
 
+\
+
 #### Plot 1 - Speed Comparison
 This comparison of speeds across each driver's fastest lap reveals differences in braking efficiency, acceleration out of corners, and driving consistency. Visualising the data collected across these laps offers insight into potential setup variations and overall driving style. The plot shows Verstappen reaches higher terminal speeds during the main straight of his fastest lap, suggesting McLaren's setup compromise favouring cornering over straight-line speed.
 
