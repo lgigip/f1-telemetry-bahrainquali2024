@@ -17,4 +17,4 @@ This plot, an overlay of throttle and brake application across the drivers' fast
 - Integrate tyre/weather data for further data analysis
 #
 #### Motivation Behind the Project
-This was built as an independent passion project; an exploration of **real-world motorsport telemetry and performance data** that demonstrates **practical application of software and data analysis** and my interest in performance engineering and motorsport technology.
+This was built as an independent passion project; an exploration of **real-world motorsport telemetry and performance data** that demonstrates **practical application of software and data analysis** and my interest in data-analysis and motorsport technology.
