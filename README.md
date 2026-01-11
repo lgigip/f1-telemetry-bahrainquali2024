@@ -1,6 +1,6 @@
 # F1 Telemetry Analysis - Verstappen vs Piastri (Bahrain GP Qualifying 2024)
 #
-With the aim to develop abilties in **motorsport data analysis and visualisation**, I built this project to extract and compare F1 data; exploring correlations between performance and driving technique. 
+With the aim to develop abilities in **motorsport data analysis and visualisation**, I built this project to extract and compare F1 data; exploring correlations between performance and driving technique. 
 #
 This project compares the fastest laps of **Max Verstappen**🔵 and **Oscar Piastri**🟠 during the **2024 Bahrain Grand Prix Qualifying Session**, using the *FastF1 Python Library*.
 #
